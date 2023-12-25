@@ -232,7 +232,7 @@ class DrivePay {
 				
 		}
 		
-		System.out.println(payment);
+		
 		
 		if (toNum == 7)
 		{
